@@ -1,7 +1,7 @@
 # SC4020 – Data Analytics & Mining
 
 This repository contains projects completed as part of the coursework for
-SC4020 Data Analytics & Mining at Nanyang Technological University (NTU).
+**SC4020 Data Analytics & Mining** at **Nanyang Technological University (NTU)**.
 
 ## Setup Instructions
 Run the following commands in the Terminal:
