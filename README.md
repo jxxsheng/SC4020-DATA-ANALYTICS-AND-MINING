@@ -4,17 +4,17 @@ This repository contains projects completed as part of the coursework for
 SC4020 Data Analytics & Mining at Nanyang Technological University (NTU).
 
 ## Setup Instructions
-
+Run the following commands in the Terminal:
+```bash
+git clone https://github.com/jxxsheng/SC4020-DATA-ANALYTICS-AND-MINING.git
+cd SC4020-DATA-ANALYTICS-AND-MINING
 ```
-git clone <repository-url>
-cd <repository-name>
-```
-```
+```bash
 python -m venv venv
 source venv/bin/activate        # macOS / Linux
 venv\Scripts\activate           # Windows
 ```
-```
+```bash
 pip install -r requirements.txt
 ```
 
